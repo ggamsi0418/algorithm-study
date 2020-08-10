@@ -2,6 +2,9 @@
     [프로그래머스] 네트워크
 
     https://programmers.co.kr/learn/courses/30/lessons/43162
+    
+    (참고 풀이)
+    https://codedrive.tistory.com/159
 """
 from collections import deque
 
